@@ -1,0 +1,22 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "Apredendo a trabalhar com serviços rest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palharesgabriel/web-service-nodejs.git"
+  },
+  "author": "Gabriel Palhares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palharesgabriel/web-service-nodejs/issues"
+  },
+  "homepage": "https://github.com/palharesgabriel/web-service-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
